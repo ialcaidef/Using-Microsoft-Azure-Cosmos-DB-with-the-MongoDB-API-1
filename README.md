@@ -4,7 +4,7 @@
 
 **Creamos un Azure  Cosmos Db**
 
-![CreadoCosmoDB](C:\Users\Juanjo\Desktop\DEMO7_L3_2\img\CreadoCosmoDB.PNG)
+![CreadoCosmoDB](https://github.com/JuanjoSalva/Using-Microsoft-Azure-Cosmos-DB-with-the-MongoDB-API/blob/main/img/CreadoCosmoDB.PNG)
 
 
 
@@ -30,7 +30,7 @@ collection id = orders
 
 **Creados los dos contenedores o colecciones**
 
-![contenedores](C:\Users\Juanjo\Desktop\DEMO7_L3_2\img\contenedores.PNG)
+![contenedores](https://github.com/JuanjoSalva/Using-Microsoft-Azure-Cosmos-DB-with-the-MongoDB-API/blob/main/img/contenedores.PNG)
 
 
 
@@ -38,15 +38,15 @@ collection id = orders
 
 - Sacamos un shell
 
-  ![sacarshell](C:\Users\Juanjo\Desktop\DEMO7_L3_2\img\sacarshell.PNG)
+  ![sacarshell](https://github.com/JuanjoSalva/Using-Microsoft-Azure-Cosmos-DB-with-the-MongoDB-API/blob/main/img/sacarshell.PNG)
 
 - Al final de este cuadro se pega el json con los datos y se da enter
 
-  ![sacarshell2](C:\Users\Juanjo\Desktop\DEMO7_L3_2\img\sacarshell2.PNG)
+  ![sacarshell2](https://github.com/JuanjoSalva/Using-Microsoft-Azure-Cosmos-DB-with-the-MongoDB-API/blob/main/img/sacarshell2.PNG)
 
 - Se han cargado los datos
 
-  ![sacarshell4](C:\Users\Juanjo\Desktop\DEMO7_L3_2\img\sacarshell4.PNG)
+  ![sacarshell4](https://github.com/JuanjoSalva/Using-Microsoft-Azure-Cosmos-DB-with-the-MongoDB-API/blob/main/img/\sacarshell4.PNG)
 
 - Hacemos lo mismo para el contenedor de Order y con su json
 
@@ -54,7 +54,7 @@ collection id = orders
 
    Right-click **orders**, and then select **New Query**.
 
-![sacarquery](C:\Users\Juanjo\Desktop\DEMO7_L3_2\img\sacarquery.PNG)
+![sacarquery](https://github.com/JuanjoSalva/Using-Microsoft-Azure-Cosmos-DB-with-the-MongoDB-API/blob/main/img/sacarquery.PNG)
 
 1. To get all the orders, paste the following query, and then click **Execute Query**.
 
@@ -62,7 +62,7 @@ collection id = orders
     {}
    ```
 
-![sacarquery1](C:\Users\Juanjo\Desktop\DEMO7_L3_2\img\sacarquery1.PNG)
+![sacarquery1](https://github.com/JuanjoSalva/Using-Microsoft-Azure-Cosmos-DB-with-the-MongoDB-API/blob/main/img/sacarquery1.PNG)
 
 28. To get all the orders at a price greater than $20, paste the following query, and then click **Execute Query**.
 
@@ -70,7 +70,7 @@ collection id = orders
     { price: {$gt: 20} }
    ```
 
-![sacarquery2](C:\Users\Juanjo\Desktop\DEMO7_L3_2\img\sacarquery2.PNG)
+![sacarquery2](https://github.com/JuanjoSalva/Using-Microsoft-Azure-Cosmos-DB-with-the-MongoDB-API/blob/main/img/sacarquery2.PNG)
 
 29. To get all the orders of customer 1, paste the following query, and then click **Execute Query**.
 
@@ -78,4 +78,4 @@ collection id = orders
     { customerId: "1" }
    ```
 
-![sacarquery3](C:\Users\Juanjo\Desktop\DEMO7_L3_2\img\sacarquery3.PNG)
+![sacarquery3]https://github.com/JuanjoSalva/Using-Microsoft-Azure-Cosmos-DB-with-the-MongoDB-API/blob/main/img/sacarquery3.PNG)
