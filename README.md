@@ -78,4 +78,4 @@ collection id = orders
     { customerId: "1" }
    ```
 
-![sacarquery3]https://github.com/JuanjoSalva/Using-Microsoft-Azure-Cosmos-DB-with-the-MongoDB-API/blob/main/img/sacarquery3.PNG)
+![sacarquery3](https://github.com/JuanjoSalva/Using-Microsoft-Azure-Cosmos-DB-with-the-MongoDB-API/blob/main/img/sacarquery3.PNG)
